@@ -3,7 +3,7 @@ layout: post
 title: If statements 
 categories: C# Programming
 ---
-If statements are a way of helping youcomputer know when to run code based on certain conditions.
+If statements are a way of helping your computer know when to run code based on certain conditions.
 
 ```csharp
 int num1;
