@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I am Bigglie Johnson! A local upcoming bass player who has played with great bands including Shotgun in Case and the marauders
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also a family man who loves to spend time with his wife and kids and when I'm not rocking out on the stage I also enjoy knitting and crochet as wel as polo on the weekends.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[000032156@student.thomroth.ac.uk](mailto:000032156@student.thomroth.ac.uk)
