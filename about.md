@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am Bigglie Johnson! A local upcoming bass player who has played with great bands including Shotgun in Case and the marauders
+Hello, I am Bigglie Johnson! A local upcoming bass player who has played with great bands including Shotgun in Case and the marauders. I have been playing bass for roughly a year but am already the most goodest.
 
 ### More Information
 
